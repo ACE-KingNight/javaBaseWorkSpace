@@ -45,5 +45,6 @@ public class Test {
         PromotionService promotionService = new PromotionServiceImpl();
         //调用实现
         promotionService.salePackage(stringObjectMap);
+        //是一袭
     }
 }
